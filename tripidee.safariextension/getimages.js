@@ -1,5 +1,4 @@
 function handleMessage(msgEvent) {
-	alert('new plugin working');
 	$('body').append('<div class="image-chooser-overlay"><div class="tripidee-instructions">Saving <b>'+document.title+'</b> to Tripidee. Choose an image for this stop:</div></div>');
 	var imgCounter = 0;
 	$('img').each(function(i){

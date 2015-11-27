@@ -15,7 +15,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.7</string>
 	<key>CFBundleVersion</key>
-	<string>1.7.0</string>
+	<string>1.7.1</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
@@ -67,9 +67,11 @@
 			<string>All</string>
 		</dict>
 	</dict>
-	<key>Website</key>
-	<string>https://www.tripidee.com</string>
 	<key>Update From Gallery</key>
 	<true/>
+	<key>Update Manifest URL</key>
+	<string>https://kauai.zendy.net/assets/tripidee.safari.plist</string>
+	<key>Website</key>
+	<string>https://www.tripidee.com</string>
 </dict>
 </plist>
